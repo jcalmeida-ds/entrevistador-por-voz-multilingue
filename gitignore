@@ -1,0 +1,5 @@
+.env
+*.mp3
+*.webm
+sessao_*.json
+.ipynb_checkpoints/
