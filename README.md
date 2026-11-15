@@ -6,8 +6,10 @@ Simulador de entrevista de emprego por voz, em vários idiomas. Você responde f
 
 ## Demonstração
 
-![Transcrição e resposta do entrevistador](imagens/conversa.png)
-![Feedback final](imagens/feedback.png)
+![Conversa com o entrevistador](conversa-portugues.png)
+![Segunda conversa](conversa2-portugues.png)
+![Feedback final](feedback-portugues.png)
+![Segundo feedback](feedback2-portugues.png)
 
 ## Como funciona
 
