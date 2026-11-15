@@ -44,7 +44,7 @@ O comportamento do entrevistador vem dos prompts de sistema da seção 4 do note
 
 | Idioma | Pergunta de teste | Idioma detectado | Resposta no mesmo idioma? |
 |---|---|---|---|
-| Português | "Fale sobre você." | | |
+| Português | "Fale sobre você." | X | X |
 | English | "Tell me about yourself." | | |
 | Español | "Cuéntame sobre ti." | | |
 
